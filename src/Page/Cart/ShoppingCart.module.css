@@ -1,0 +1,24 @@
+.ShoppingCart_Main_Container{
+    /* border: 1px solid #153535; */
+    width: 50%;
+    margin: auto;
+}
+.headerContainer{
+    /* border: 1px solid #153535; */
+}
+
+.buttons_container{
+    /* border: 1px solid #153535; */
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.cart_list{
+    /* border: 1px solid #153535; */
+}
+
+.shoppingBody{
+    /* border: 1px solid #153535; */
+
+}
